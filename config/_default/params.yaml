@@ -40,7 +40,7 @@ header:
 # Site footer
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} Shayan Firouzian Haji. The content of this site is licensed under GNU LGPLv2.1'
     license:
       enable: true
       allow_derivatives: false
