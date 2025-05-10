@@ -31,18 +31,18 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:shayanfirouzian@gmail.com'
     label: E-mail Me
   - icon: academicons/scopus
-    url: https://www.instagram.com/
+    url: https://www.scopus.com/authid/detail.uri?authorId=59693788200
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/shayanfirouzian
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/shayanfirouzian/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.com/citations?user=LusXp6wAAAAJ
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0000-0003-2299-3894
 
 interests:
   - Artificial Intelligence
