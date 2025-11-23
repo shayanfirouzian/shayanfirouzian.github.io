@@ -45,9 +45,11 @@ profiles:
     url: https://orcid.org/0000-0003-2299-3894
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Applied AI & ML
+  - Data Science and Analysis
+  - Decision Sciences
+  - Modeling and Simulation
+  - Optimization and Programming
 
 education:
   - area: Master of Science in Industrial & Systems Engineering
